@@ -1,1 +1,12 @@
+body {
+    background-color: #f0f0f0; /* Color de fondo */
+    font-family: Arial, sans-serif; /* Fuente de la página */
+}
 
+h1 {
+    color: #3498db; /* Color del encabezado */
+}
+
+p {
+    color: #333; /* Color del párrafo */
+}
