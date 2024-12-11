@@ -18,5 +18,13 @@ Episodios:
 Cada episodio presenta una nueva aventura, a menudo con giros inesperados y referencias a la cultura pop.
 Rick y Morty ha ganado una gran cantidad de seguidores y ha sido aclamada por la crítica por su originalidad y profundidad temática. La serie continúa evolucionando, con nuevas temporadas que exploran aún más las complejidades de sus personajes y universos.
 
-Reflexion
+Reflexion: 
 Yo he elegido esta api porque es la primera vez que hago una api y me ha parecido más sencillo de usar, no tiene mucha información, lo cual me ha sido de ayuda a la hora de usarla para hacer este trabajo.
+La pagina se adapta a distintas pantallas.
+La API no maneja errores.
+La lista me parece poco clara.
+La navegacion tiene algunos fallos.
+La aparencia del CSS es básica.
+No hay mucho que explicar sobre el proyecto.
+La reflexion carece de detalles.
+Creo que como nota me conformo con un 5 por haber hecho un proycto simple y con retraso. 
