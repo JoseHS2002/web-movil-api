@@ -27,4 +27,4 @@ La navegacion tiene algunos fallos.
 La aparencia del CSS es básica.
 No hay mucho que explicar sobre el proyecto.
 La reflexion carece de detalles.
-Creo que como nota me conformo con un 5 por haber hecho un proycto simple y con retraso. 
+Creo que como nota me conformo con un 5 por haber hecho un proyecto simple y con retraso.
